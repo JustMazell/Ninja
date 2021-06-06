@@ -16,7 +16,9 @@ For C#
 
 What you need
 1.] Your Braincells ( need it badly )
+
 2.] A Custom Domain ofc so google recaptcha will work
+
 3.] Google Recaptcha ( v2 )
 
 
