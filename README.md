@@ -14,7 +14,8 @@ For C#
                 }
 ```
 
-What you need
+What you need:
+
 1.] Your Braincells ( need it badly )
 
 2.] A Custom Domain ofc so google recaptcha will work
@@ -23,10 +24,12 @@ What you need
 
 
 Edit the index.php then replace the site key & secret key with yours
+
 https://www.google.com/recaptcha/admin/create
 
 Good Luck :)
 
 Credit To:
 [ + ] SkieHacker ( Modding & Improving the Key System )
+
 [ + ] UsifFar ( for index.php, i watch his tutorial and i learn some shits at least )
